@@ -30,6 +30,9 @@ coverage
 # Python
 __pycache__
 venv
+app.db
+app/static/uploads/*
+!app/static/uploads/.gitkeep
 
 # Environment Variables
 .env
